@@ -1,0 +1,14 @@
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+
+  .todo_content {
+    margin-top: 20px;
+  }
+}
+.separator {
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.3);
+  margin-top: 10px;
+  max-width: 50px;
+}
